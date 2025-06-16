@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/open-telemetry/opentelemetry-ebpf/releases">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/open-telemetry/opentelemetry-ebpf?style=for-the-badge">
+  </a>
+  <a href="https://github.com/open-telemetry/opentelemetry-collector#alpha">
+    <img alt="Status: ALPHA" src="https://img.shields.io/badge/status-alpha-informational?style=for-the-badge">
+  </a>
+</p>
+
 # OpenTelemetry eBPF #
 
 The OpenTelemetry eBPF project develops components that collect and analyze
